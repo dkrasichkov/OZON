@@ -1,1 +1,4 @@
-
+tiingo
+yfinance
+plotly
+finnhub
