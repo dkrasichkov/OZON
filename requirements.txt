@@ -1,4 +1,4 @@
 tiingo
 yfinance
 plotly
-finnhub
+finnhub-python
