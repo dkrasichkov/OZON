@@ -586,3 +586,5 @@ st.write(fig)
 
 
 st.title('Case study')
+st.header(yf.Ticker('CPNG').info['longName'])
+st.write(yf.Ticker('CPNG').info['longBusinessSummary'])
